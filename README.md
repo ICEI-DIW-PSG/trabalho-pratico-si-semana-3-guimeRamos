@@ -10,15 +10,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Guilherme Ramos Pinto    
+- Matricula:963616
+- Proposta de projeto escolhida:Site de hotelaria   
+- Breve descrição sobre seu projeto: um site que faz uma breve review de preço e qualidade de hoteis 
 
 
 ## Print do(s) wireframe(s) criado
+<img>
 
-<<  COLOQUE A IMAGEM AQUI >>
 
 
 ## Print da home-page criada
